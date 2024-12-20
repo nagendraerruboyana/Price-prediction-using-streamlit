@@ -122,7 +122,7 @@ The app will output the predicted price of the car based on the trained Linear R
 
 ## Screenshots  
 
-![alt text](<Streamlit and 5 more pages - Personal - Microsoft​ Edge 20-12-2024 10_45_38.png>)  
+![alt text](streamlit screenshot.png)  
 
 ---
 
