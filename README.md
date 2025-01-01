@@ -146,5 +146,3 @@ This project is licensed under the MIT License.
 Feel free to explore the repository and provide feedback!  
 
 ---
-
-### Replace `https://your-app-link.com` with the actual link to your deployed app. If you haven’t deployed it yet, you can mention, "App link coming soon!" or similar.
