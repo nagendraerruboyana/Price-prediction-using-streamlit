@@ -1,7 +1,3 @@
-Here's the updated README with a **Live Demo** section to add your app link:
-
----
-
 # Used Car Price Prediction App  
 This repository contains a **Used Car Price Prediction App** built using **Streamlit**. It is a **proof of concept (POC)** project designed to showcase your ability to build predictive models and deploy them using an interactive web interface.  
 
@@ -144,5 +140,3 @@ This project is licensed under the MIT License.
 - **Model**: Linear Regression  
 
 Feel free to explore the repository and provide feedback!  
-
----
