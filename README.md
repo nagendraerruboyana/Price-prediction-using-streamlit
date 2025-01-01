@@ -118,7 +118,7 @@ The app will output the predicted price of the car based on the trained Linear R
 
 ## Screenshots  
 
-![alt text](streamlit screenshot.png)  
+![alt text](D:\Scaler\Price-prediction-using-streamlit-\streamlit screenshot.png)  
 
 ---
 
@@ -139,4 +139,4 @@ This project is licensed under the MIT License.
 - **Framework**: Streamlit for app development  
 - **Model**: Linear Regression  
 
-Feel free to explore the repository and provide feedback!  
+Feel free to explore the repository and provide feedback!
