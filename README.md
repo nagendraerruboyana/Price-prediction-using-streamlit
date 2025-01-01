@@ -118,7 +118,7 @@ The app will output the predicted price of the car based on the trained Linear R
 
 ## Screenshots  
 
-![alt text](D:\Scaler\Price-prediction-using-streamlit-\streamlit screenshot.png)  
+![alt text](image.png)
 
 ---
 
